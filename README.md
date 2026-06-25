@@ -6,7 +6,7 @@ The U.S. energy transition has a distribution problem. Low-income and majority-B
 
 ---
 
-![County Priority Classes Across the U.S.](images/county_priority_map.jpg)
+![County Priority Classes Across the U.S.](images/County%20Priority%20Map.jpg)
 
 *County priority classes across five states. Teal = highest need. Green = moderate. Gray = strongest technical opportunity.*
 
