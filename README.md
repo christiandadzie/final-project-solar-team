@@ -2,7 +2,7 @@
 
 The U.S. energy transition has a distribution problem. Low-income and majority-BIPOC communities spend the highest share of their income on energy, yet they have captured the least benefit from the solar boom. This project maps where those two realities collide and identifies which communities should be first in line for clean energy investment.
 
-*Lead analyst: Christian Dadzie | Yale School of the Environment, ENV 795, Spring 2025*
+*Lead analyst: Christian Dadzie | Environmental Data Science, Yale School of the Environment - Spring 2025*
 
 ---
 
